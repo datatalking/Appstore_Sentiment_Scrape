@@ -5,34 +5,20 @@
   </component>
   <component name="BlackConnectSettings" previewMode="true" triggerOnEachSave="true" enableJupyterSupport="true" />
   <component name="ChangeListManager">
-    <list default="true" id="35578113-1b5f-4fab-8a73-81852b078fc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/Appstore_Sentiment_Scraper.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Appstore_Sentiment_Scrape/data/SERVICEMONSTER LLC.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Cuda_testing/.idea/Cuda_testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mstables/.idea/mstables.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../yahoo_scrape_sp500/yahoo_scrape/TEST.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="35578113-1b5f-4fab-8a73-81852b078fc7" name="Changes" comment="added blank .eng and .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="bdaeb81f-f67c-44d1-8c3d-2e3ead24d709" />
@@ -42,6 +28,7 @@
   </component>
   <component name="ProjectId" id="2NM7wvevo7pCk4lQhqFkwsb9eo9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -130,8 +117,16 @@
       <updated>1679462340508</updated>
       <workItem from="1679462389029" duration="1242000" />
       <workItem from="1679463657583" duration="454000" />
-      <workItem from="1679464143909" duration="8851000" />
+      <workItem from="1679464143909" duration="9162000" />
     </task>
+    <task id="LOCAL-00001" summary="added blank .eng and .gitignore">
+      <created>1679482931335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679482931335</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +134,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="added blank .eng and .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="added blank .eng and .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
